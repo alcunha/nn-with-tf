@@ -1,7 +1,7 @@
 ## Redes Neurais Utilizando Tensorflow 
 
 
-[Slides - Introdução](https://github.com/alcunha/nn-with-tf/blob/master/)
+[Slides - Introdução](https://github.com/alcunha/nn-with-tf/blob/master/NNwTF.pdf)
 
 [Notebook - Redes Neurais Completamente Conectadas](https://github.com/alcunha/nn-with-tf/blob/master/)
 
