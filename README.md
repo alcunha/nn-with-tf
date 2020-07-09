@@ -5,7 +5,7 @@
 
 [Notebook - Redes Neurais Completamente Conectadas](https://github.com/alcunha/nn-with-tf/blob/master/Fully-Connected-Neural-Networks-with-TF.ipynb)
 
-[Notebook - Redes Convolutivas](https://github.com/alcunha/nn-with-tf/blob/master/)
+[Notebook - Redes Convolutivas](https://github.com/alcunha/nn-with-tf/blob/master/Convolutional-Neural-Networks-with-TF.ipynb)
 
 [Notebook - Transferência de Aprendizado](https://github.com/alcunha/nn-with-tf/blob/master/)
 
