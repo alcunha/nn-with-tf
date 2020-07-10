@@ -7,7 +7,7 @@
 
 [Notebook - Redes Convolutivas](https://github.com/alcunha/nn-with-tf/blob/master/Convolutional-Neural-Networks-with-TF.ipynb)
 
-[Notebook - Transferência de Aprendizado](https://github.com/alcunha/nn-with-tf/blob/master/)
+[Notebook - Transferência de Aprendizado](https://github.com/alcunha/nn-with-tf/blob/master/Transfer-Learning-with-TF.ipynb)
 
 
 ### Autor
