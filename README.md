@@ -1,5 +1,6 @@
 ## Redes Neurais Utilizando Tensorflow 
 
+Material utilizado para as aulas introdutórias para graduação sobre a utilização do TensorFlow para treinamento de redes neurais.
 
 [Slides - Introdução](https://github.com/alcunha/nn-with-tf/blob/master/NNwTF.pdf)
 
@@ -8,6 +9,11 @@
 [Notebook - Redes Convolutivas](https://github.com/alcunha/nn-with-tf/blob/master/Convolutional-Neural-Networks-with-TF.ipynb)
 
 [Notebook - Transferência de Aprendizado](https://github.com/alcunha/nn-with-tf/blob/master/Transfer-Learning-with-TF.ipynb)
+
+
+### Uso das Imagens
+
+O direito das imagens neste repositório pertecem aos respectivos autores devidamente creditados nas referências dos notebooks onde são utilizadas.
 
 
 ### Autor
